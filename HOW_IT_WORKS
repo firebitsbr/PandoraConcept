@@ -24,7 +24,7 @@ CollectiveIntelligence: It is well known game developers and programmers of arti
 
 DNA:
 
-Dnet:
+Dnet: It's a simple communication system based on RSA, which allows only the sender and recerptor receive the information and this can not be read by other parties, something like the OTR but in a distributed mode as P2P.
 
 MemoryEncoder: Many malware developers uses XOR as a method of encryption to protect the information stored on the variables of their programs, i think it is something archaic and thought into the next level, an AES encryption, that changes periodically.
 
