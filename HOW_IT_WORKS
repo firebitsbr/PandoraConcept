@@ -25,8 +25,9 @@ Dnet:
 
 MemoryEncoder: Many malware developers uses XOR as a method of encryption to protect the information stored on the variables of their programs, i think it is something archaic and thought into the next level, an AES encryption, that changes periodically.
 
-SeedOfKnowledge:
-Transmutator:
+SeedOfKnowledge: All software developers know that software can be extended by plugins and also that their programs can make own actions, by simple commands traveling on the internet, and this is simply way to create plugins, orders or tasks perform.
+
+Transmutator: Many antivirus and malware analysis systems, rather archaic methods used for the detection of malware, such as the detection of libraries, code patterns, common functions, i thinked something very simple for life difficult for some, a binary increasingly running has a different shape, structure and exported functions.
 
 PandoraConcept is the power on your hand, the big monster awaiting for you orders ...
 
