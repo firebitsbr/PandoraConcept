@@ -22,7 +22,7 @@ BroadcastHopping: Many malware researchers use methods such as capture the infor
 
 CollectiveIntelligence: It is well known game developers and programmers of artificial intelligence that one way to make autonomous and cooperative systems is the multi agent programming, which provides "bots" autonomous based on predetermined rules, and this is that.
 
-DNA:
+DNA: I was thinking about how some security researchers sometimes hijack control of a botnet using many methods and thought about something to prevent this, so that only the owner of the family can control and nobody else can.
 
 Dnet: It's a simple communication system based on RSA, which allows only the sender and recerptor receive the information and this can not be read by other parties, something like the OTR but in a distributed mode as P2P.
 
@@ -31,6 +31,8 @@ MemoryEncoder: Many malware developers uses XOR as a method of encryption to pro
 SeedOfKnowledge: All software developers know that software can be extended by plugins and also that their programs can make own actions, by simple commands traveling on the internet, and this is simply way to create plugins, orders or tasks perform.
 
 Transmutator: Many antivirus and malware analysis systems, rather archaic methods used for the detection of malware, such as the detection of libraries, code patterns, common functions, i thinked something very simple for life difficult for some, a binary increasingly running has a different shape, structure and exported functions.
+
+I forgot to mention something, pandora not uses a host to spread copies of itself, is not based on common command and control (C&C).
 
 PandoraConcept is the power on your hand, the big monster awaiting for you orders ...
 
