@@ -20,7 +20,9 @@ BroadcastHopping:
 CollectiveIntelligence:
 DNA:
 Dnet:
-MemoryEncoder:
+
+MemoryEncoder: Many malware developers uses XOR as a method of encryption to protect the information stored on the variables of their programs, i think it is something archaic and thought into the next level, an AES encryption, that changes periodically.
+
 SeedOfKnowledge:
 Transmutator:
 
