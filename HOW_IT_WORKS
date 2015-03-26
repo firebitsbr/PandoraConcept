@@ -20,8 +20,10 @@ BabbelLanguage: I thought about how to make life hard for some who like sniffing
 
 BroadcastHopping: Many malware researchers use methods such as capture the information that comes from a ip, to track botnets, i think something to make it difficult for a little life, what if the information came from multiple directions and jump from side to side.
 
-CollectiveIntelligence:
+CollectiveIntelligence: It is well known game developers and programmers of artificial intelligence that one way to make autonomous and cooperative systems is the multi agent programming, which provides "bots" autonomous based on predetermined rules, and this is that.
+
 DNA:
+
 Dnet:
 
 MemoryEncoder: Many malware developers uses XOR as a method of encryption to protect the information stored on the variables of their programs, i think it is something archaic and thought into the next level, an AES encryption, that changes periodically.
